@@ -18,4 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/0aedf59b-0b58-48e8-b483-c2486
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-Page maker
+Page maker ,(fiverr paid pase maker)
